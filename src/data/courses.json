@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "icon": "🔧",
+      "description": "Explore cutting-edge engineering programs across various specializations",
+      "image": "https://images.pexels.com/photos/256381/pexels-photo-256381.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "subcategories": [
+        {
+          "id": "computer-science",
+          "name": "Computer Science",
+          "description": "Master programming, algorithms, AI, and software development",
+          "overview": "Computer Science programs prepare students for careers in technology, focusing on programming, data structures, algorithms, artificial intelligence, and software engineering.",
+          "careerOpportunities": ["Software Engineer", "Data Scientist", "AI Researcher", "Product Manager", "Cybersecurity Analyst"],
+          "admissionProcess": ["Strong math background", "Programming experience preferred", "SAT/GRE scores", "Letters of recommendation"],
+          "topUniversities": ["MIT", "Stanford", "CMU", "UC Berkeley", "Harvard"]
+        },
+        {
+          "id": "mechanical",
+          "name": "Mechanical Engineering",
+          "description": "Design, analyze, and manufacture mechanical systems",
+          "overview": "Mechanical Engineering combines physics, mathematics, and materials science to design, analyze, manufacture, and maintain mechanical systems.",
+          "careerOpportunities": ["Mechanical Engineer", "Design Engineer", "Project Manager", "Research Scientist", "Manufacturing Engineer"],
+          "admissionProcess": ["Strong physics and math background", "SAT/GRE scores", "Technical portfolio", "Interview"],
+          "topUniversities": ["MIT", "Stanford", "Georgia Tech", "Caltech", "Michigan"]
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "icon": "💼",
+      "description": "Develop leadership and management skills for global business success",
+      "image": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "subcategories": [
+        {
+          "id": "mba",
+          "name": "Master of Business Administration (MBA)",
+          "description": "Advanced management and leadership program for executives",
+          "overview": "MBA programs provide comprehensive business education covering strategy, finance, marketing, operations, and leadership development.",
+          "careerOpportunities": ["Management Consultant", "Investment Banker", "Product Manager", "CEO", "Entrepreneur"],
+          "admissionProcess": ["GMAT/GRE scores", "Work experience required", "Essays and interviews", "Letters of recommendation"],
+          "topUniversities": ["Harvard", "Stanford", "Wharton", "Kellogg", "Booth"]
+        },
+        {
+          "id": "finance",
+          "name": "Finance",
+          "description": "Master financial markets, analysis, and corporate finance",
+          "overview": "Finance programs focus on financial markets, investment analysis, corporate finance, and risk management.",
+          "careerOpportunities": ["Financial Analyst", "Investment Banker", "Portfolio Manager", "Risk Manager", "Financial Advisor"],
+          "admissionProcess": ["Strong quantitative skills", "GMAT/GRE scores", "Finance-related coursework", "Internship experience"],
+          "topUniversities": ["Wharton", "Chicago Booth", "NYU Stern", "London Business School", "INSEAD"]
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine",
+      "icon": "🏥",
+      "description": "Train to become a healthcare professional and save lives",
+      "image": "https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "subcategories": [
+        {
+          "id": "md",
+          "name": "Doctor of Medicine (MD)",
+          "description": "Comprehensive medical education to become a practicing physician",
+          "overview": "MD programs provide comprehensive medical education including basic sciences, clinical rotations, and residency preparation.",
+          "careerOpportunities": ["Physician", "Surgeon", "Specialist", "Medical Researcher", "Healthcare Administrator"],
+          "admissionProcess": ["MCAT scores", "Pre-med coursework", "Clinical experience", "Research experience", "Interviews"],
+          "topUniversities": ["Harvard Medical", "Johns Hopkins", "UCSF", "Mayo Clinic", "Duke"]
+        },
+        {
+          "id": "nursing",
+          "name": "Nursing",
+          "description": "Compassionate patient care and healthcare delivery",
+          "overview": "Nursing programs prepare students to provide direct patient care, health promotion, and disease prevention.",
+          "careerOpportunities": ["Registered Nurse", "Nurse Practitioner", "Nurse Manager", "Clinical Specialist", "Nurse Educator"],
+          "admissionProcess": ["Science prerequisites", "GPA requirements", "TEAS exam", "Clinical experience", "Background check"],
+          "topUniversities": ["Johns Hopkins", "UCSF", "University of Pennsylvania", "NYU", "Yale"]
+        }
+      ]
+    },
+    {
+      "id": "arts",
+      "name": "Arts & Humanities",
+      "icon": "🎨",
+      "description": "Explore creativity, culture, and human expression",
+      "image": "https://images.pexels.com/photos/1568607/pexels-photo-1568607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "subcategories": [
+        {
+          "id": "fine-arts",
+          "name": "Fine Arts",
+          "description": "Develop artistic skills in visual arts, painting, and sculpture",
+          "overview": "Fine Arts programs focus on developing artistic skills, creativity, and understanding of art history and theory.",
+          "careerOpportunities": ["Artist", "Art Director", "Gallery Curator", "Art Teacher", "Freelance Designer"],
+          "admissionProcess": ["Portfolio submission", "Artistic statement", "Academic transcripts", "Letters of recommendation"],
+          "topUniversities": ["Yale", "RISD", "Art Institute of Chicago", "Parsons", "SCAD"]
+        },
+        {
+          "id": "literature",
+          "name": "Literature",
+          "description": "Study literary works, writing, and critical analysis",
+          "overview": "Literature programs explore literary works, critical analysis, writing skills, and cultural understanding through texts.",
+          "careerOpportunities": ["Writer", "Editor", "Journalist", "Teacher", "Literary Critic"],
+          "admissionProcess": ["Writing samples", "Academic transcripts", "GRE scores", "Statement of purpose"],
+          "topUniversities": ["Harvard", "Yale", "Stanford", "Princeton", "Columbia"]
+        }
+      ]
+    }
+  ]
+}

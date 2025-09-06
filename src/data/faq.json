@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "How do I choose the right university for my program?",
+    "answer": "We consider multiple factors including your academic background, career goals, budget, location preferences, and program rankings. Our counselors provide personalized recommendations based on your profile and conduct thorough university research to match you with the best options."
+  },
+  {
+    "id": 2,
+    "question": "What are the typical application deadlines for international students?",
+    "answer": "Application deadlines vary by country and university. Generally, for Fall intake: US universities have deadlines between December-February, UK universities through UCAS have a January deadline, Canadian universities typically have January-March deadlines, and Australian universities have multiple intakes throughout the year."
+  },
+  {
+    "id": 3,
+    "question": "How much does it cost to study abroad?",
+    "answer": "Costs vary significantly by country and program. Annual tuition ranges from $5,000 in Germany to $60,000+ in the US. Living expenses range from $8,000-$20,000 annually. We help you create a comprehensive budget and identify scholarship opportunities to reduce costs."
+  },
+  {
+    "id": 4,
+    "question": "What standardized tests do I need to take?",
+    "answer": "Requirements depend on your destination and program: SAT/ACT for US undergraduate programs, GRE/GMAT for graduate programs, IELTS/TOEFL for English proficiency, and subject-specific tests like MCAT for medicine or LSAT for law programs."
+  },
+  {
+    "id": 5,
+    "question": "How long does the visa application process take?",
+    "answer": "Visa processing times vary: US student visas typically take 2-8 weeks, UK visas take 3-8 weeks, Canadian study permits take 4-12 weeks, and Australian visas take 4-8 weeks. We recommend starting the visa process immediately after receiving admission."
+  },
+  {
+    "id": 6,
+    "question": "Can I work while studying abroad?",
+    "answer": "Most countries allow international students to work part-time: US allows 20 hours/week on-campus, UK permits 20 hours/week during studies, Canada allows 20 hours/week off-campus, and Australia permits 40 hours/fortnight. Work regulations vary by visa type and country."
+  }
+]

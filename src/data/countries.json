@@ -1,0 +1,68 @@
+[
+  {
+    "id": "usa",
+    "name": "United States",
+    "flag": "🇺🇸",
+    "image": "https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "World-class education with diverse programs and research opportunities",
+    "universityCount": 150,
+    "averageTuition": 45000,
+    "popularCourses": ["Engineering", "Business", "Medicine", "IT"],
+    "studyDuration": "4 years (Bachelor's), 2 years (Master's)"
+  },
+  {
+    "id": "uk",
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "image": "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Historic universities with excellent academic reputation and shorter degree duration",
+    "universityCount": 80,
+    "averageTuition": 35000,
+    "popularCourses": ["Arts", "Business", "Engineering", "Medicine"],
+    "studyDuration": "3 years (Bachelor's), 1 year (Master's)"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "image": "https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "High quality education with multicultural environment and post-study work opportunities",
+    "universityCount": 60,
+    "averageTuition": 25000,
+    "popularCourses": ["Engineering", "Business", "IT", "Arts"],
+    "studyDuration": "4 years (Bachelor's), 2 years (Master's)"
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "image": "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Modern education system with research focus and beautiful campus locations",
+    "universityCount": 40,
+    "averageTuition": 30000,
+    "popularCourses": ["Arts", "Engineering", "Business", "Medicine"],
+    "studyDuration": "3 years (Bachelor's), 2 years (Master's)"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "image": "https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Affordable education with strong engineering and technology programs",
+    "universityCount": 70,
+    "averageTuition": 5000,
+    "popularCourses": ["Engineering", "IT", "Business", "Arts"],
+    "studyDuration": "3 years (Bachelor's), 2 years (Master's)"
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "image": "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "English-taught programs with innovative teaching methods and international environment",
+    "universityCount": 25,
+    "averageTuition": 15000,
+    "popularCourses": ["Business", "Arts", "Engineering", "IT"],
+    "studyDuration": "3 years (Bachelor's), 1-2 years (Master's)"
+  }
+]

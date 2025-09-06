@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Amanda Richards",
+    "position": "Founder & CEO",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "experience": "15 years",
+    "specialization": "International Education Policy",
+    "education": "PhD in Education, Harvard University",
+    "bio": "Dr. Richards founded EduConsult with a vision to make international education accessible to students worldwide. She has helped over 5000 students achieve their dreams."
+  },
+  {
+    "id": 2,
+    "name": "James Patterson",
+    "position": "Director of Admissions",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "experience": "12 years",
+    "specialization": "University Admissions & Scholarships",
+    "education": "MBA, Stanford University",
+    "bio": "James brings extensive experience in university admissions and has secured millions in scholarships for students across various programs."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Patel",
+    "position": "Academic Counselor",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "experience": "10 years",
+    "specialization": "STEM Programs & Research",
+    "education": "PhD in Computer Science, MIT",
+    "bio": "Dr. Patel specializes in STEM program guidance and has helped numerous students secure positions in top engineering and technology programs."
+  },
+  {
+    "id": 4,
+    "name": "Sarah Williams",
+    "position": "Visa & Immigration Specialist",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "experience": "8 years",
+    "specialization": "Student Visas & Immigration Law",
+    "education": "LLM in Immigration Law, Georgetown University",
+    "bio": "Sarah ensures smooth visa processes with a 98% success rate, guiding students through complex immigration requirements."
+  }
+]

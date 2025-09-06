@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "university": "Harvard University",
+    "course": "MBA",
+    "country": "USA",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "testimonial": "EduConsult made my dream of studying at Harvard a reality. Their guidance through the application process was invaluable, and I couldn't have done it without their support.",
+    "rating": 5,
+    "graduationYear": 2023
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "university": "University of Oxford",
+    "course": "Computer Science",
+    "country": "UK",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "testimonial": "The scholarship assistance I received helped me secure funding for my studies at Oxford. The team was professional and always available to answer my questions.",
+    "rating": 5,
+    "graduationYear": 2024
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "university": "University of Toronto",
+    "course": "Medicine",
+    "country": "Canada",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "testimonial": "From university selection to visa application, EduConsult provided comprehensive support. I'm now pursuing my medical degree in Canada thanks to their expertise.",
+    "rating": 5,
+    "graduationYear": 2022
+  },
+  {
+    "id": 4,
+    "name": "David Kumar",
+    "university": "Australian National University",
+    "course": "Engineering",
+    "country": "Australia",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "testimonial": "The personalized counseling sessions helped me choose the right university and program. I'm grateful for the continuous support throughout my application journey.",
+    "rating": 5,
+    "graduationYear": 2023
+  }
+]
